@@ -1,1 +1,4 @@
-# shoreofwonder.github.io
+# Shore of Wonder
+
+Collected past works + side projects. 
+
